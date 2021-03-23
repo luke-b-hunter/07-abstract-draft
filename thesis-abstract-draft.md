@@ -1,3 +1,4 @@
+![](img/hunter-logo.PNG)
 
 # Visual style for a made up political party
 
