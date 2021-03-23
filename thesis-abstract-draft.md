@@ -7,6 +7,6 @@
 
 * The main sources is a comprehensive research of other frivolous parties and a research of logos of existing poltitical movements and political and marketing literature. In my thesis, I'm researching the way on how other frivolous parties functioned and communicated and from that I'm deducing my own project. I'm also woking with current geogpolitical situations in the world that are crucial for the creation of my platform. In my theoretical part I'm taking a slight inspiration from other frivolous parties styles but essentialy creating my own visual assets. 
 
-* The goal is to create a visual design for my own political party. This party should be flexible in a way, where it can react to other political problems, the routes it can take are many. The party can coopoerate with other frivolous parties or it can turn into a real political party. 
+* The goal is to create a visual design for my own political party. This party should be flexible in a way, where it can react to other political problems, the routes it can take are many. The party can cooperate with other frivolous parties or it can turn into a real political party. 
 
 Keywords: frivolousness, political party, visual style, movement
